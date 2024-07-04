@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shashank7753/practice-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1293-three-consecutive-odds](https://github.com/shashank7753/practice-dsa/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shashank7753/practice-dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shashank7753/practice-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shashank7753/practice-dsa/tree/master/2299-merge-nodes-in-between-zeros) |
+## String
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 <!---LeetCode Topics End-->
