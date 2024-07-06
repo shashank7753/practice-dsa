@@ -60,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shashank7753/practice-dsa/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/shashank7753/practice-dsa/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/shashank7753/practice-dsa/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
