@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1293-three-consecutive-odds](https://github.com/shashank7753/practice-dsa/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shashank7753/practice-dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/shashank7753/practice-dsa/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/shashank7753/practice-dsa/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1720-crawler-log-folder](https://github.com/shashank7753/practice-dsa/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/shashank7753/practice-dsa/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
