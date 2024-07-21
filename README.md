@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shashank7753/practice-dsa/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/shashank7753/practice-dsa/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashank7753/practice-dsa/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shashank7753/practice-dsa/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashank7753/practice-dsa/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/shashank7753/practice-dsa/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/shashank7753/practice-dsa/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashank7753/practice-dsa/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/shashank7753/practice-dsa/tree/master/2846-robot-collisions) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shashank7753/practice-dsa/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Hash Table
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shashank7753/practice-dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashank7753/practice-dsa/tree/master/2472-build-a-matrix-with-conditions) |
 ## Bit Manipulation
 |  |
 | ------- |
