@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/shashank7753/practice-dsa/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shashank7753/practice-dsa/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/shashank7753/practice-dsa/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/shashank7753/practice-dsa/tree/master/2846-robot-collisions) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shashank7753/practice-dsa/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0726-number-of-atoms](https://github.com/shashank7753/practice-dsa/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shashank7753/practice-dsa/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/shashank7753/practice-dsa/tree/master/2502-sort-the-people) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shashank7753/practice-dsa/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shashank7753/practice-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/shashank7753/practice-dsa/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shashank7753/practice-dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/shashank7753/practice-dsa/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/shashank7753/practice-dsa/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/shashank7753/practice-dsa/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashank7753/practice-dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shashank7753/practice-dsa/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/shashank7753/practice-dsa/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
