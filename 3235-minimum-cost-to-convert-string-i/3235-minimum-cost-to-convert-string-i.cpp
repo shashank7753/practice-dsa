@@ -15,21 +15,17 @@ public:
         int n = ori.size();
         int m = src.size();
 
-        // Initialize dp array with infinity
         ll dp[26][26];
         fill(&dp[0][0], &(dp[0][0]) + 26 * 26, LONG_LONG_MAX);
 
-        // Initialize diagonal elements to 0
         for(int i = 0; i < 26; ++i)
             dp[i][i] = 0;
 
-        // Populate dp array with conversion costs
         for (int i = 0; i < n; ++i)
         {
             dp[ori[i]-'a'][chan[i]-'a'] = min(dp[ori[i]-'a'][chan[i]-'a'], (ll)cost[i]);
         } 
 
-        // Perform Floyd-Warshall algorithm to find shortest path
         for (int via = 0; via < 26; ++via)
         {
             for (int i = 0; i < 26; ++i) 
