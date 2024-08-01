@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shashank7753/practice-dsa/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/shashank7753/practice-dsa/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/shashank7753/practice-dsa/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/shashank7753/practice-dsa/tree/master/2846-robot-collisions) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shashank7753/practice-dsa/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/shashank7753/practice-dsa/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashank7753/practice-dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shashank7753/practice-dsa/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/shashank7753/practice-dsa/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/shashank7753/practice-dsa/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/shashank7753/practice-dsa/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Math
 |  |
