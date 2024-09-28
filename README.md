@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/shashank7753/practice-dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shashank7753/practice-dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0859-design-circular-deque](https://github.com/shashank7753/practice-dsa/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/shashank7753/practice-dsa/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/shashank7753/practice-dsa/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/shashank7753/practice-dsa/tree/master/0921-spiral-matrix-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/shashank7753/practice-dsa/tree/master/0859-design-circular-deque) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shashank7753/practice-dsa/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shashank7753/practice-dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/shashank7753/practice-dsa/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashank7753/practice-dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/shashank7753/practice-dsa/tree/master/0859-design-circular-deque) |
 ## Data Stream
 |  |
 | ------- |
