@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/shashank7753/practice-dsa/tree/master/0273-integer-to-english-words) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashank7753/practice-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0726-number-of-atoms](https://github.com/shashank7753/practice-dsa/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/shashank7753/practice-dsa/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashank7753/practice-dsa/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shashank7753/practice-dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1720-crawler-log-folder](https://github.com/shashank7753/practice-dsa/tree/master/1720-crawler-log-folder) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shashank7753/practice-dsa/tree/master/0040-combination-sum-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shashank7753/practice-dsa/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
