@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/shashank7753/practice-dsa/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shashank7753/practice-dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/shashank7753/practice-dsa/tree/master/1803-average-waiting-time) |
+| [1940-maximum-xor-for-each-query](https://github.com/shashank7753/practice-dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shashank7753/practice-dsa/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shashank7753/practice-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/shashank7753/practice-dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shashank7753/practice-dsa/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shashank7753/practice-dsa/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/shashank7753/practice-dsa/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
