@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shashank7753/practice-dsa/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shashank7753/practice-dsa/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/shashank7753/practice-dsa/tree/master/2502-sort-the-people) |
+| [2716-prime-subtraction-operation](https://github.com/shashank7753/practice-dsa/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/shashank7753/practice-dsa/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/shashank7753/practice-dsa/tree/master/2846-robot-collisions) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shashank7753/practice-dsa/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shashank7753/practice-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shashank7753/practice-dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shashank7753/practice-dsa/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2716-prime-subtraction-operation](https://github.com/shashank7753/practice-dsa/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shashank7753/practice-dsa/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shashank7753/practice-dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashank7753/practice-dsa/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2716-prime-subtraction-operation](https://github.com/shashank7753/practice-dsa/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashank7753/practice-dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/shashank7753/practice-dsa/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shashank7753/practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/shashank7753/practice-dsa/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/shashank7753/practice-dsa/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -313,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/shashank7753/practice-dsa/tree/master/1940-maximum-xor-for-each-query) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/shashank7753/practice-dsa/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
